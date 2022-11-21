@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IAmSakib26
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning javascript and java language
+- 🌱 I’m currently working with javascript and php language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me davilkakon@gmail.com
 
